@@ -1,5 +1,8 @@
 # Arcade-Game
 
+## Overview
+This project uses object-oriented programming skills to recreate a classic arcade game. Provided the [visual assets and in-game loop engine](https://github.com/udacity/frontend-nanodegree-arcade-game), interactive objects were created in the game including the player and enemy instances.
+
 ## Play Live
 [Arcade Game](https://amarjeetsingh1999.github.io/Arcade-Game/)
 
